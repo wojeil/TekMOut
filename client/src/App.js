@@ -6,14 +6,36 @@ function App() {
   return (
     <div className="App">
       {/* intro section */}
+      <section id ="intro">
+
+
+      </section>
 
       {/* goal section*/}
+      <section id="goal">
+
+      </section>
 
       {/* services section*/}
+      <section id="services">
 
-      {/* team section */}
+      </section>
+
+      {/* portfolio section  */}
+      <section id="portfolio">
+
+      </section>
+
+       {/* team section */}
+
+      <section id="team">
+
+      </section>
 
       {/* contact section */}
+      <section id="contact">
+        
+      </section>
 
     </div>
   );
